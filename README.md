@@ -5,6 +5,10 @@
 
 CLI application to dynamically generate a README.md from user input
 
+## Walkthrough
+
+[Watch the walkthrough](assets/walkthrough.mov)
+
 ## Table of Contents
 
 - [Installation](#installation)
