@@ -5,6 +5,10 @@
 
 CLI application to dynamically generate a README.md from user input
 
+## Walkthrough
+
+[Watch the walkthrough](assets/walkthrough.mov)
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -37,7 +41,3 @@ N/A
 ## Questions
 
 github.com/calebtkjordan
-
-## Walkthrough Video
-
-https://github.com/calebtkjordan/readme-generator/blob/main/assets/walkthrough.mov
