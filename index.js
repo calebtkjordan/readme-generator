@@ -4,9 +4,6 @@ const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 const util = require('util');
 
-// READ DOCUMENATION - ALL ANSWERS ARE IN DOCUMENTATION https://www.npmjs.com/package/inquirer
-// CHECK SOLUTION TO MINI PROJECT - VERY SIMILAR TO THIS PROJECT
-
 const writeFileAsync = util.promisify(fs.writeFile);
 
 const promptUser = () =>
@@ -20,11 +17,6 @@ const promptUser = () =>
             type: 'input',
             name: 'description',
             message: 'What is the purpose of this project?',
-        },
-        {
-            type: 'input',
-            name: 'contents',
-            message: 'Would you like to include a table of contents?',
         },
         {
             type: 'input',
