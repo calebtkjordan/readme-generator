@@ -37,3 +37,7 @@ N/A
 ## Questions
 
 github.com/calebtkjordan
+
+## Walkthrough Video
+
+https://github.com/calebtkjordan/readme-generator/blob/main/assets/walkthrough.mov
